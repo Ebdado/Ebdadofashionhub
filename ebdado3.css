@@ -13,6 +13,7 @@ body{
 }
 .side-image{
     width: 50%;
+    padding-left: 25%;
 }
 .primary-btn{
     color: white;
@@ -32,7 +33,6 @@ h1{
 }
 .ebdado{
     width: 50%;
-    padding-left: 25%;
 }
 .lists{
     width: 45%;
