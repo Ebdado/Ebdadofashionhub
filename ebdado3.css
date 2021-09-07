@@ -1,0 +1,80 @@
+.heading{
+    color: white;
+}
+body{
+    font-family: sans-serif;
+    color: white;
+    background-color: grey;
+    line-height: 26px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.side-image{
+    width: 50%;
+    padding-left: 25%;
+}
+.primary-btn{
+    color: white;
+    background-color: black;
+    padding: 13px 40px 13px 40px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 1.7em;
+    border-radius: 20px;
+    padding: 13px 30px 13px 30px;
+    background-color: green;
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.ebdado{
+    width: 50%;
+    padding: 25%;
+}
+.lists{
+    width: 45%;
+    float: left;
+    color: black;
+    padding-left: 25%;
+    padding: 6px;
+    margin: 6px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.lists-item{
+    padding:10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+.lists2{
+    width: 45%;
+    float: left;
+    color: black;
+    padding-left: 25%;
+    padding: 6px;
+    margin: 6px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.lists-item2{
+    padding:10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+h3{
+    font-size: 2.5em;
+}
+footer{
+    margin: 30px;
+    width: 50%;
+    float: left;
+}
+.index{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 13px 40px 13px 40px;
+    border-radius: 20px;
+}
