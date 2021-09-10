@@ -1,0 +1,53 @@
+.index{
+    text-align: center;
+    color: blue;
+    background-color: rgb(238, 251, 255);
+    padding: 50px 0px 13px 0px;
+    border-radius: 20px;
+    font-size: 2.2em;
+}
+.welcome{
+    color: red;
+}
+nav{
+   font-size: 2em;
+   text-align: center;
+}
+.index-image1{
+    width: 46%;
+    padding: 30px 20px 30px 20px;
+}
+.index-image2{
+    width: 46%;
+    float: right;
+    padding: 30px 20px 30px 20px;
+}
+.home{
+    padding: 10px 15px 10px 15px;
+    border-radius: 80px;
+    text-decoration: none;
+    background-color: orange;
+}
+.login{
+    padding: 10px 15px 10px 15px;
+    border-radius: 80px;
+    text-decoration: none;
+    background-color: orange;
+}
+.about{
+    padding: 10px 15px 10px 15px;
+    border-radius: 80px;
+    text-decoration: none;
+    background-color: orange;
+}
+.catalog{
+    padding: 10px 15px 10px 15px;
+    border-radius: 80px;
+    text-decoration: none;
+    background-color: orange;
+}
+.index2{
+    text-align: center;
+    color: blue;
+    background-color: gold;
+}
